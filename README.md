@@ -1,3 +1,12 @@
+# Landing Page
+
+<img width="959" alt="Landing Page" src="https://github.com/haristahir58/trading/assets/80643073/fe359c39-6029-4d03-b013-09c819e897f8">
+
+# Charts Section
+
+<img width="959" alt="Chart page" src="https://github.com/haristahir58/trading/assets/80643073/3fcd52d9-5204-450f-b081-3838f91d9d9b">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
